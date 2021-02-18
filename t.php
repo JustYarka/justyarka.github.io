@@ -1,5 +1,5 @@
 <?php
 
 function a() {
-  echo 'Hello!';
+  echo 'Hellod ddd';
 }
